@@ -11,8 +11,9 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 ## Context
 ![image](https://user-images.githubusercontent.com/62799332/121534806-306a4580-ca1f-11eb-9e34-9cf5f454232f.png)
+
 Figure S6. Illustrative Examples of Chest X-Rays in Patients with Pneumonia, Related to Figure 6
-The normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse ‘‘interstitial’’ pattern in both lungs.
+The normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse ‘‘interstitial’’ pattern in both lungs.<br>
 http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 
